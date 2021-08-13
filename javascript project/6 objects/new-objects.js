@@ -14,3 +14,9 @@ person ["age"]= 50
                             // or from different function
  person[emailProperty]="abc@a.com"
 console.log (person)
+
+
+// to fetch properties individually
+
+console.log(person ["name"])
+console.log (person ["Age"])
