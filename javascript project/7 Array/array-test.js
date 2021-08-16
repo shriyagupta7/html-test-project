@@ -18,5 +18,5 @@ function (name){
 console.log(data[5](data[6].name))
 
 //query to print name of person using function who have value "bcd" 
-console.log (data[5].data[6].name + ' has ' + data[7].[1])
+console.log (data[5].data[6].name + ' has ' + data[7][1])
 

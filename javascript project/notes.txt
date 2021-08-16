@@ -3,4 +3,5 @@
 -chakra in internet explorer browser
 -javascriptcore is Apple 's engine for JS 
 
-
+object literal    {}
+array liera       []
