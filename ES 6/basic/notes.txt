@@ -1,0 +1,20 @@
+var - function scope
+let, const - block scope
+var,let - can be reassign 
+let- cant be redeclared
+const - cant be reassign
+
+
+
+! both are same statement
+() =>
+() =>  {return  expression}
+
+
+setTimeout(function(){
+    console.log('hello')
+},3000) // delay the execution 
+
+setInterval(function() => {
+    console.log('how are you')
+}, 3000); // print "how are you " after every 3 sec
